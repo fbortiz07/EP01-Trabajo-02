@@ -1,6 +1,6 @@
-Trabajo 02 Electia Profesional 1
+ Electva Profesional 1
 
-Areas, numero de vocales y consonantes y numer capicua
+Repositorio para la entrega de todos los trabajos de electiva profesional 1.
 
 William Fabian Ortiz Mahecha
 
